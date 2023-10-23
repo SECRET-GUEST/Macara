@@ -1,0 +1,65 @@
+
+#title {
+
+
+    font-size: 20px;
+    font-weight: bold;
+
+    font-family: "Silkscreen"
+}
+
+
+QMainWindow {
+
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
+
+
+QFrame {
+    background-color: #ffffff; 
+    border-radius: 10px;
+}
+
+
+QWidget {
+
+    font-family: "Comic Sans MS";
+}
+
+
+
+QPushButton {
+
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 5px 10px;
+}
+
+QPushButton {
+    background-color: #CFCFCF;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 5px 10px;
+}
+
+QPushButton:hover {
+    background-color: #909090;
+}
+
+QPushButton:pressed {
+    background-color: #333333;
+}
+
+
+
+
+
+
+QTextEdit {
+    background-color: #CFCFCF;
+    color: #000000;
+    border-radius: 10px;
+    font-family: "Cascadia Code"
+}
+
