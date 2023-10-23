@@ -13,6 +13,8 @@
 
 Macara 🧪 is a miscellaneous collection of scripts I occasionally use myself using for AI training, graphism or else. 
 
+[![Download macara](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/macara/files/latest/download)
+
 ![beta v0 0 2b](https://github.com/SECRET-GUEST/macara/assets/92639080/9efc8989-83b9-400a-a079-296272f6e511)
 
 
