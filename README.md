@@ -1,3 +1,4 @@
+[![Download macara](https://img.shields.io/sourceforge/dt/macara.svg)](https://sourceforge.net/projects/macara/files/latest/download)
 ```
 ███╗   ███╗ █████╗  ██████╗ █████╗ ██████╗  █████╗ 
 ████╗ ████║██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗
