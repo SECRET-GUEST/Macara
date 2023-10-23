@@ -1,4 +1,3 @@
-[![Download Macara](https://img.shields.io/sourceforge/dt/macara.svg)](https://sourceforge.net/projects/macara/files/latest/download)
 ```
 ███╗   ███╗ █████╗  ██████╗ █████╗ ██████╗  █████╗ 
 ████╗ ████║██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗
@@ -14,9 +13,8 @@
 
 Macara 🧪 is a miscellaneous collection of scripts I occasionally use myself using for AI training, graphism or else. 
 
-[![Download Macara](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/macara/files/latest/download)
+![beta v0 0 2b](https://github.com/SECRET-GUEST/macara/assets/92639080/9efc8989-83b9-400a-a079-296272f6e511)
 
-![Capture d'écran 2023-08-13 182603](https://github.com/SECRET-GUEST/Macara/assets/92639080/e58e9270-3f3d-4964-b8d3-e7134b74b0e2)
 
 ## Utility
 
@@ -33,6 +31,8 @@ The scripts included in this project cover a range of functionality, such as:
 All of these are accessible through a convenient PyQt5 GUI. Check out the main page of the project to learn more.
 
 
+![beta v0 0 1 b](https://github.com/SECRET-GUEST/macara/assets/92639080/2dfad72c-830b-4039-85e2-b2435cd5d252)
+
 
 # :gem: Recommendations  
 
@@ -46,19 +46,20 @@ Looking for more? Discover user-friendly, GUI-free scripts or themes here:
 - [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
 - [Themes](https://github.com/SECRET-GUEST/themes) 
 
-![image](https://github.com/SECRET-GUEST/Metamorphix/assets/92639080/b7344dbf-1881-43d2-8583-96eb846becbd)
+![beta v0 0 1](https://github.com/SECRET-GUEST/macara/assets/92639080/999f72c4-e904-4e7b-b4c0-1f66f8228938)
 
 
-## :scroll: License
+## 📜 Licence
 
-This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
+This software is released under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.en.html). Please see the `LICENSE` file for more information.
+
 
 ## :question: Support & Questions
 
 If you have any questions or need support, please feel free to open an issue or join my twitter.
 
+![beta v0 0 2](https://github.com/SECRET-GUEST/macara/assets/92639080/295d028a-4982-429d-a559-4881d74be62f)
 
-![image](https://github.com/SECRET-GUEST/Metamorphix/assets/92639080/5af7ca47-d991-40e9-aea7-e3008400b962)
 
 ```
 ██   ██  ██████  ██     ██     ████████  ██████      ██████  ██    ██ ███    ██ 
